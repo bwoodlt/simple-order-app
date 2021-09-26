@@ -8,6 +8,7 @@ Install and start:
 
 - `yarn`
 - `yarn start`
-- Begin your implementation
 
-#
+# Demo
+
+https://recordit.co/i1W0S01oRU
