@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  margin-top: 20px;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.button {
+  margin: 10px;
+}
+
+.headerItem {
+  font-size: 20px;
+  padding-top: 20px;
+  padding-right: 20px;
+  font-weight: bold;
+}
+
+.orders {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25em;
+}
+
+.orderItem {
+  padding: 20px;
+  border: 1px solid darkslategray;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+.orderInfo {
+  display: flex;
+}
