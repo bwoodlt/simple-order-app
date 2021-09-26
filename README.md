@@ -1,2 +1,3 @@
-# simple-order-app
-A simple order app exercise loading order JSON and filter functionalities. Uses antd design system.
+# order-app-exercise
+
+An order app exercise fetching order JSON and applying filter functionalities. Uses antd design system.
