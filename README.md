@@ -11,4 +11,4 @@ Install and start:
 
 # Demo
 
-https://recordit.co/i1W0S01oRU
+![order-app-demo](https://github.com/bwoodlt/simple-order-app/blob/f4f87fcebad963460252af485302b7088c8b21ea/demo.gif)
