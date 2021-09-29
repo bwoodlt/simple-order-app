@@ -5,7 +5,7 @@ const App = () => {
   const history = useHistory();
   return (
     <div id='container'>
-      <Button type='primary' onClick={() => history.push('/orders')}>
+      <Button  type='primary' onClick={() => history.push('/orders')}>
         Go to Order Page
       </Button>
       <br />

@@ -21,7 +21,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 25em;
+  width: 350px;
 }
 
 .orderItem {
@@ -33,4 +33,17 @@
 
 .orderInfo {
   display: flex;
+}
+
+.groupedHeader {
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    justify-content: space-around;
+}
+
+input {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    text-align: center;
 }
